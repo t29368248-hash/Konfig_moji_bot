@@ -1,0 +1,8 @@
+name = "konfig-moji-bot"
+main = "worker.js"
+compatibility_date = "2026-10-03"
+
+# Recommended after creating a KV namespace:
+# [[kv_namespaces]]
+# binding = "BOT_DATA"
+# id = "YOUR_KV_NAMESPACE_ID"
